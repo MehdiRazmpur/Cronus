@@ -1,0 +1,9 @@
+test.py
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+*.session
+*.session-journal
+*.zip
+LICENSE
